@@ -49,7 +49,7 @@
                     <div class="section-title text-left sec-title-animation animation-style1">
                         <div class="section-title__tagline-box">
                             <span class="icon-tooth"></span>
-                            <p class="section-title__tagline">Botox Cosmetic & Therapeutic Treatment: A Modern Approach to Aesthetics and Wellness</p>
+                            <p class="section-title__tagline">Aesthetics & Wellness</p>
                         </div>
                         <h2 class="section-title__title title-animation">
                             Botox Cosmetic & <span>Therapeutic Treatment</span>

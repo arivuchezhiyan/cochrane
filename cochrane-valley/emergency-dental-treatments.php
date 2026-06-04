@@ -49,7 +49,7 @@
                     <div class="section-title text-left sec-title-animation animation-style1">
                         <div class="section-title__tagline-box">
                             <span class="icon-tooth"></span>
-                            <p class="section-title__tagline">The Modern Way to Handle Dental Emergencies</p>
+                            <p class="section-title__tagline">Immediate Dental Care</p>
                         </div>
                         <h2 class="section-title__title title-animation">
                             Emergency Dental <span>Treatments</span>

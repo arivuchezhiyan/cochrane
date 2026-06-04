@@ -49,7 +49,7 @@
                     <div class="section-title text-left sec-title-animation animation-style1">
                         <div class="section-title__tagline-box">
                             <span class="icon-tooth"></span>
-                            <p class="section-title__tagline">Oral Cancer Screenings: Protecting Your Health Beyond Your Smile</p>
+                            <p class="section-title__tagline">Early Health Detection</p>
                         </div>
                         <h2 class="section-title__title title-animation">
                             Oral Cancer <span>Screenings</span>

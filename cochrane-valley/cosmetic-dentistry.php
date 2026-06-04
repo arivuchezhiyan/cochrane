@@ -49,7 +49,7 @@
                     <div class="section-title text-left sec-title-animation animation-style1">
                         <div class="section-title__tagline-box">
                             <span class="icon-tooth"></span>
-                            <p class="section-title__tagline">Cosmetic Dentistry: Personalized Solutions for a More Beautiful Smile</p>
+                            <p class="section-title__tagline">Beautiful Smile Design</p>
                         </div>
                         <h2 class="section-title__title title-animation">
                             Cosmetic <span>Dentistry</span>

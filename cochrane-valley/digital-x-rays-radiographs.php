@@ -49,7 +49,7 @@
                     <div class="section-title text-left sec-title-animation animation-style1">
                         <div class="section-title__tagline-box">
                             <span class="icon-tooth"></span>
-                            <p class="section-title__tagline">Digital X-Rays & Radiographs: Advanced Imaging for Accurate Dental Care</p>
+                            <p class="section-title__tagline">Advanced Dental Imaging</p>
                         </div>
                         <h2 class="section-title__title title-animation">
                             Digital X-Rays & <span>Radiographs</span>

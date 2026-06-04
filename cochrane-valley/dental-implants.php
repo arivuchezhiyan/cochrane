@@ -49,7 +49,7 @@
                     <div class="section-title text-left sec-title-animation animation-style1">
                         <div class="section-title__tagline-box">
                             <span class="icon-tooth"></span>
-                            <p class="section-title__tagline">Dental Implants: A Permanent Solution for Missing Teeth</p>
+                            <p class="section-title__tagline">Restore Missing Teeth</p>
                         </div>
                         <h2 class="section-title__title title-animation">
                             Dental <span>Implants</span>

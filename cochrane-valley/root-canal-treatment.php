@@ -49,7 +49,7 @@
                     <div class="section-title text-left sec-title-animation animation-style1">
                         <div class="section-title__tagline-box">
                             <span class="icon-tooth"></span>
-                            <p class="section-title__tagline">Root Canal Treatment: Effective Care for Infected or Damaged Teeth</p>
+                            <p class="section-title__tagline">Save Infected Teeth</p>
                         </div>
                         <h2 class="section-title__title title-animation">
                             Root Canal <span>Treatment</span>

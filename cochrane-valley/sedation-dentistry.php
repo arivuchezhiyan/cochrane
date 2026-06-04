@@ -49,7 +49,7 @@
                     <div class="section-title text-left sec-title-animation animation-style1">
                         <div class="section-title__tagline-box">
                             <span class="icon-tooth"></span>
-                            <p class="section-title__tagline">A Calmer, More Comfortable Approach to Dental Care</p>
+                            <p class="section-title__tagline">Anxiety-Free Dental Care</p>
                         </div>
                         <h2 class="section-title__title title-animation">
                             Sedation <span>Dentistry</span>

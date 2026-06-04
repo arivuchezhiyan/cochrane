@@ -49,7 +49,7 @@
                     <div class="section-title text-left sec-title-animation animation-style1">
                         <div class="section-title__tagline-box">
                             <span class="icon-tooth"></span>
-                            <p class="section-title__tagline">Snoring & Sleep Apnea Services: Helping You Sleep Soundly and Wake Refreshed</p>
+                            <p class="section-title__tagline">Restful Sleep Solutions</p>
                         </div>
                         <h2 class="section-title__title title-animation">
                             Snoring & Sleep <span>Apnea Services</span>

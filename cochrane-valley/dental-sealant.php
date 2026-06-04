@@ -49,7 +49,7 @@
                     <div class="section-title text-left sec-title-animation animation-style1">
                         <div class="section-title__tagline-box">
                             <span class="icon-tooth"></span>
-                            <p class="section-title__tagline">A Smarter Way to Shield Your Smile from Cavities</p>
+                            <p class="section-title__tagline">Shield From Cavities</p>
                         </div>
                         <h2 class="section-title__title title-animation">
                             Dental <span>Sealants</span>

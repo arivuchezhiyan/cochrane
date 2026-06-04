@@ -49,7 +49,7 @@
                     <div class="section-title text-left sec-title-animation animation-style1">
                         <div class="section-title__tagline-box">
                             <span class="icon-tooth"></span>
-                            <p class="section-title__tagline">Crowns & Bridges: Reliable Solutions for Damaged and Missing Teeth</p>
+                            <p class="section-title__tagline">Restore Damaged Teeth</p>
                         </div>
                         <h2 class="section-title__title title-animation">
                             Crowns & <span>Bridges</span>

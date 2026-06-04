@@ -49,7 +49,7 @@
                     <div class="section-title text-left sec-title-animation animation-style1">
                         <div class="section-title__tagline-box">
                             <span class="icon-tooth"></span>
-                            <p class="section-title__tagline">Clear Aligners: Your Path to a Confident Smile</p>
+                            <p class="section-title__tagline">Straighten Your Smile</p>
                         </div>
                         <h2 class="section-title__title title-animation">
                             Sure Smile <span>Clear Aligners</span>
