@@ -56,7 +56,7 @@
                         </h2>
                     </div>
                     <p class="about-one__text">
-                        At Cochrane Valley Dental, we offer the latest in clear aligner treatments like Invisalign and SureSmile to straighten your teeth comfortably and discreetly. Our custom aligners are designed to fit seamlessly into your busy lifestyle, providing an effective and comfortable way to achieve your dream smile.
+                        At Cochrane Valley Dental, we offer the latest in clear aligner treatments like Invisalign and SureSmile to straighten your teeth comfortably and discreetly. If you're looking for Clear Aligners Cochrane, our custom aligners are designed to fit seamlessly into your busy lifestyle, providing an effective and comfortable way to achieve your dream smile.
                     </p>
                     <div class="about-one__points-and-experience-box">
                         <ul class="about-one__points-box">
@@ -192,7 +192,7 @@
                         </div>
                         <div>
                             <h4 style="font-size: 18px; margin-bottom: 5px;">Hygiene Made Easy</h4>
-                            <p>Simply remove your aligners to brush and floss normally, no extra tools required.</p>
+                            <p>Simply remove your aligners to brush and floss normally, with no extra tools required.</p>
                         </div>
                     </li>
                     <li
@@ -243,7 +243,7 @@
                         style="width: 80px; height: 80px; border: 2px dashed #fff; border-radius: 50%; margin: 0 auto 25px; display: flex; align-items: center; justify-content: center; font-size: 24px; font-weight: 700;">
                         02</div>
                     <h3 style="color: #fff;">Swap Regularly</h3>
-                    <p style="color: rgba(255,255,255,0.8);">Change to the next set every 1-2 weeks to gradually move your teeth.</p>
+                    <p style="color: rgba(255,255,255,0.8);">Change to the next set every 1–2 weeks to gradually move your teeth.</p>
                 </div>
             </div>
             <div class="col-xl-3 col-lg-6 col-md-6">
@@ -252,7 +252,7 @@
                         style="width: 80px; height: 80px; border: 2px dashed #fff; border-radius: 50%; margin: 0 auto 25px; display: flex; align-items: center; justify-content: center; font-size: 24px; font-weight: 700;">
                         03</div>
                     <h3 style="color: #fff;">Stay on Track</h3>
-                    <p style="color: rgba(255,255,255,0.8);">Visit us every 6-8 weeks for check-ups and progress assessments.</p>
+                    <p style="color: rgba(255,255,255,0.8);">Visit us every 6–8 weeks for check-ups and progress assessments.</p>
                 </div>
             </div>
             <div class="col-xl-3 col-lg-6 col-md-6">
@@ -286,7 +286,7 @@
                             style="font-size: 38px; font-weight: 800; color: #fff; margin-bottom: 10px; line-height: 1.2; font-family: var(--mediplace-font-two);">
                             Ready to Transform <span style="opacity: 0.9;">Your Smile?</span></h2>
                         <p style="font-size: 18px; color: rgba(255,255,255,0.95); margin-bottom: 0;">
-                            Book your consultation for Invisalign or SureSmile in Cochrane today and start your journey to a brighter, confident smile!
+                            Book your consultation for Invisalign or SureSmile in Cochrane today and discover how Clear Aligners Cochrane can help you achieve a straighter, healthier and more confident smile.
                         </p>
                     </div>
                 </div>
@@ -352,7 +352,7 @@
                             </div>
                             <div class="accrodion-content">
                                 <div class="inner">
-                                    <p>It’s easy! Schedule a consultation with our dental professionals and we’ll guide you through the process and help you achieve the smile you deserve.</p>
+                                    <p>It's easy! Schedule a consultation with our dental professionals and we'll guide you through the process and help you achieve the smile you deserve with Clear Aligners Cochrane.</p>
                                 </div>
                             </div>
                         </div>
