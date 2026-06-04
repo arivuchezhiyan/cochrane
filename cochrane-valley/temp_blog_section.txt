@@ -1,0 +1,117 @@
+﻿<section class="blog-one">
+    <div class="blog-one__shape-2"></div>
+    <div class="blog-one__shape-3"></div>
+    <div class="container">
+        <div class="section-title text-left sec-title-animation animation-style1">
+            <div class="section-title__tagline-box">
+                <span class="icon-tooth"></span>
+                <p class="section-title__tagline">News & Articles</p>
+            </div>
+            <h2 class="section-title__title title-animation">Latest From <span>Our Blog</span> </h2>
+        </div>
+        <div class="row">
+            <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInLeft" data-wow-delay="100ms">
+                <div class="blog-one__single">
+                    <div class="blog-one__img">
+                        <img src="assets/images/home/blog1.png" alt="">
+                    </div>
+                    <div class="blog-one__content">
+                        <div class="blog-one__shape-1">
+                            <img src="assets/images/shapes/blog-one-shape-1.png" alt="">
+                        </div>
+                        <div class="blog-one__content-inner">
+                            <ul class="blog-one__meta list-unstyled">
+                                <li>
+                                    <a href="blog-details.php">
+                                        <span class="fas fa-comments"></span>By Admin
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="blog-details.php">
+                                        <span class="fas fa-calendar-alt"></span>14 Feb,2026
+                                    </a>
+                                </li>
+                            </ul>
+                            <h3 class="blog-one__title"><a href="blog-details.php">Smile Brighter: Your Guide
+                                    to Daily Dental Care</a></h3>
+                            <div class="blog-one__btn">
+                                <a href="blog-details.php" class="thm-btn">
+                                    <span class="fas fa-arrow-right"></span>
+                                    Read More
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
+                <div class="blog-one__single">
+                    <div class="blog-one__img">
+                        <img src="assets/images/home/blog2.png" alt="">
+                    </div>
+                    <div class="blog-one__content">
+                        <div class="blog-one__shape-1">
+                            <img src="assets/images/shapes/blog-one-shape-1.png" alt="">
+                        </div>
+                        <div class="blog-one__content-inner">
+                            <ul class="blog-one__meta list-unstyled">
+                                <li>
+                                    <a href="blog-details.php">
+                                        <span class="fas fa-comments"></span>By Admin
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="blog-details.php">
+                                        <span class="fas fa-calendar-alt"></span>14 Feb,2026
+                                    </a>
+                                </li>
+                            </ul>
+                            <h3 class="blog-one__title"><a href="blog-details.php">Wisdom Teeth: Should You
+                                    Remove Them?</a></h3>
+                            <div class="blog-one__btn">
+                                <a href="blog-details.php" class="thm-btn">
+                                    <span class="fas fa-arrow-right"></span>
+                                    Read More
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInRight" data-wow-delay="300ms">
+                <div class="blog-one__single">
+                    <div class="blog-one__img">
+                        <img src="assets/images/home/blog3.png" alt="">
+                    </div>
+                    <div class="blog-one__content">
+                        <div class="blog-one__shape-1">
+                            <img src="assets/images/shapes/blog-one-shape-1.png" alt="">
+                        </div>
+                        <div class="blog-one__content-inner">
+                            <ul class="blog-one__meta list-unstyled">
+                                <li>
+                                    <a href="blog-details.php">
+                                        <span class="fas fa-comments"></span>By Admin
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="blog-details.php">
+                                        <span class="fas fa-calendar-alt"></span>14 Feb,2026
+                                    </a>
+                                </li>
+                            </ul>
+                            <h3 class="blog-one__title"><a href="blog-details.php">Clients Say Cheese:
+                                    Exploring Cosmetic Dentistry</a></h3>
+                            <div class="blog-one__btn">
+                                <a href="blog-details.php" class="thm-btn">
+                                    <span class="fas fa-arrow-right"></span>
+                                    Read More
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

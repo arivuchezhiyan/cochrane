@@ -1,0 +1,14 @@
+RewriteEngine On
+
+# Redirect .php requests to the URL without extension (External Redirect)
+RewriteCond %{THE_REQUEST} \s/+(.+?)\.php[\s?] [NC]
+RewriteRule ^ /%1 [R=301,L]
+
+# Existing Blog Rule
+RewriteRule ^blog/([a-zA-Z0-9-]+)$ blog-details.php?slug=$1 [L,QSA]
+
+
+# Handle pages without .php extension (Internal Rewrite)
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
