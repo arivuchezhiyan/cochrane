@@ -49,18 +49,14 @@
                     <div class="section-title text-left sec-title-animation animation-style1">
                         <div class="section-title__tagline-box">
                             <span class="icon-tooth"></span>
-                            <p class="section-title__tagline">Gentle Children's Care</p>
+                            <p class="section-title__tagline">The Modern Way to Care for Little Smiles</p>
                         </div>
                         <h2 class="section-title__title title-animation">
-                            Kids <span>Dentistry</span>
+                            Kids <span>Dentistry</span>: Expert Care for Your Child’s Healthy Smile
                         </h2>
                     </div>
                     <p class="about-one__text">
-                        At Cochrane Valley Dental, we understand that a positive dental experience is essential for
-                        building a lifetime of healthy smiles. Our kid-friendly dental team is here to provide gentle,
-                        compassionate care tailored to your child’s needs. We offer a wide range of pediatric dental
-                        services designed to make every visit fun, educational and stress-free, helping your child
-                        maintain good oral health from their first tooth to their teen years.
+                        At Cochrane Valley Dental, we understand that a positive dental experience is essential for building a lifetime of healthy smiles. If you're looking for a trusted Children's Dentist Cochrane, our kid-friendly dental team is here to provide gentle, compassionate care tailored to your child’s needs. We offer a wide range of pediatric dental services designed to make every visit fun, educational and stress-free, helping your child maintain good oral health from their first tooth to their teen years.
                     </p>
                     <div class="about-one__points-and-experience-box">
                         <ul class="about-one__points-box">
@@ -94,7 +90,7 @@
                                 <div class="about-one__btn">
                                     <a href="appointment.php" class="thm-btn">
                                         <span class="fas fa-calendar-alt"></span>
-                                        Book Your Kids Dental Consultation Today
+                                        Book Your Child’s Dental Appointment Today
                                     </a>
                                 </div>
                             </div>
@@ -177,7 +173,7 @@
                     </div>
                     <h2 class="section-title__title title-animation">Pediatric Services <span>We Offer</span></h2>
                 </div>
-                <div class="before-after-two__content-text">
+                <div class="before-after-two__content-text" style="display: block !important;">
                     <ul style="margin: 15px 0 25px 20px; list-style-type: disc; color: var(--mediplace-text);">
                         <li><strong>Early Checkups:</strong> It’s recommended that children see a dentist by age 1 or
                             when their first tooth appears. Early visits allow us to monitor your child’s oral
@@ -217,8 +213,7 @@
                         </div>
                         <div>
                             <h4 style="font-size: 18px; margin-bottom: 5px;">Comprehensive Pediatric Care</h4>
-                            <p>From teething to braces, we provide a full range of dental services to meet the unique
-                                needs of your growing child.</p>
+                            <p>As a leading Children's Dentist Cochrane, we provide a full range of dental services to support your child’s oral health through every stage of development.</p>
                         </div>
                     </li>
                     <li
@@ -240,9 +235,8 @@
                             <i class="fas fa-user-md"></i>
                         </div>
                         <div>
-                            <h4 style="font-size: 18px; margin-bottom: 5px;">Experienced Pediatric Dentists</h4>
-                            <p>Our pediatric dentists specialize in treating children’s teeth and are dedicated to
-                                making every visit a pleasant experience.</p>
+                            <h4 style="font-size: 18px; margin-bottom: 5px;">Experienced Pediatric Dental Team</h4>
+                            <p>Our team is dedicated to caring for children’s smiles and making every dental visit a pleasant, positive experience.</p>
                         </div>
                     </li>
                 </ul>
@@ -258,7 +252,7 @@
 <!-- Common Issues End -->
 
 <!-- What to Do Start -->
-<section class="working-process-one" style="background: var(--mediplace-black); padding: 140px 0 200px; color: #fff;">
+<section class="working-process-one" style="display: block !important; background: var(--mediplace-black); padding: 140px 0 200px; color: #fff;">
     <div class="container">
         <div class="section-title text-center sec-title-animation animation-style1">
             <div class="section-title__tagline-box">
@@ -331,8 +325,7 @@
                             style="font-size: 38px; font-weight: 800; color: #fff; margin-bottom: 10px; line-height: 1.2; font-family: var(--mediplace-font-two);">
                             Ready for Your Child’s <span style="opacity: 0.9;">First Dental Visit?</span></h2>
                         <p style="font-size: 18px; color: rgba(255,255,255,0.95); margin-bottom: 0;">
-                            Book your child’s appointment at Cochrane Valley Dental today and give them the gift of a
-                            healthy, confident smile that will last a lifetime!
+                            Book your child’s appointment at Cochrane Valley Dental today and discover why families trust our team as their preferred Children's Dentist Cochrane. Give your child the gift of a healthy, confident smile that will last a lifetime.
                         </p>
                     </div>
                 </div>

@@ -49,18 +49,14 @@
                     <div class="section-title text-left sec-title-animation animation-style1">
                         <div class="section-title__tagline-box">
                             <span class="icon-tooth"></span>
-                            <p class="section-title__tagline">Optimal Oral Health</p>
+                            <p class="section-title__tagline">The Modern Way to Maintain Optimal Oral Health</p>
                         </div>
                         <h2 class="section-title__title title-animation">
-                            Dental <span>Hygiene</span>
+                            Dental <span>Hygiene</span>: The Foundation of a Healthy Smile
                         </h2>
                     </div>
                     <p class="about-one__text">
-                        At Cochrane Valley Dental, we emphasize the importance of regular dental hygiene for maintaining
-                        long-term oral health. Our expert team offers professional cleaning and preventive care to
-                        ensure your smile stays fresh, bright and free of common dental issues such as cavities and gum
-                        disease. We provide comprehensive dental hygiene services designed to protect your teeth and
-                        gums, ensuring they remain healthy for a lifetime.
+                        At Cochrane Valley Dental, we emphasize the importance of regular dental hygiene for maintaining long-term oral health. As a trusted Dental Clinic in Cochrane, our expert team offers professional cleaning and preventive care to ensure your smile stays fresh, bright and free of common dental issues such as cavities and gum disease. We provide comprehensive dental hygiene services designed to protect your teeth and gums, ensuring they remain healthy for a lifetime.
                     </p>
                     <div class="about-one__points-and-experience-box">
                         <ul class="about-one__points-box">
@@ -94,10 +90,10 @@
                                 <div class="about-one__btn">
                                     <a href="appointment.php" class="thm-btn">
                                         <span class="fas fa-calendar-alt"></span>
-                                        Book Your Dental Hygine Consultation Today
+                                        Book Your Dental Hygiene Appointment Today
                                     </a>
                                 </div>
-                     </div>
+                      </div>
                 </div>
             </div>
         </div>
@@ -145,8 +141,7 @@
                         <i class="fas fa-heartbeat"></i>
                     </div>
                     <h3>Improved Overall Health</h3>
-                    <p>Good oral hygiene goes beyond your smile—studies have shown that maintaining oral health can help
-                        prevent serious conditions such as heart disease and diabetes.</p>
+                    <p>Good oral hygiene goes beyond your smile - studies have shown that maintaining oral health can help support overall wellness.</p>
                 </div>
             </div>
             <div class="col-xl-3 col-lg-6 col-md-6">
@@ -177,19 +172,12 @@
                     </div>
                     <h2 class="section-title__title title-animation">The Importance of <span>Dental Hygiene</span></h2>
                 </div>
-                <div class="before-after-two__content-text">
+                <div class="before-after-two__content-text" style="display: block !important;">
                     <ul style="margin: 15px 0 25px 20px; list-style-type: disc; color: var(--mediplace-text);">
-                        <li><strong>Teeth Cleaning:</strong> A professional cleaning by our experienced hygienists
-                            removes plaque and tartar that regular brushing can’t reach, leaving your teeth smooth and
-                            free of harmful bacteria.</li>
-                        <li><strong>Gum Health:</strong> Routine dental hygiene visits help prevent gum disease by
-                            cleaning below the gumline, reducing inflammation and preventing gingivitis and
-                            periodontitis.</li>
-                        <li><strong>Oral Cancer Screening:</strong> As part of our hygiene appointments, we also conduct
-                            screenings for oral cancer to catch any potential issues early.</li>
-                        <li><strong>Fluoride Treatment:</strong> We offer fluoride treatments to strengthen enamel and
-                            protect your teeth from decay, particularly beneficial for those at higher risk for
-                            cavities.</li>
+                        <li><strong>Teeth Cleaning:</strong> A professional cleaning by our experienced hygienists removes plaque and tartar that regular brushing can’t reach, leaving your teeth smooth and free of harmful bacteria.</li>
+                        <li><strong>Gum Health:</strong> Routine dental hygiene visits help prevent gum disease by cleaning below the gumline, reducing inflammation and helping protect your gums.</li>
+                        <li><strong>Oral Cancer Screening:</strong> As part of our hygiene appointments, we also conduct screenings for oral cancer to help identify potential concerns early.</li>
+                        <li><strong>Fluoride Treatment:</strong> We offer fluoride treatments to strengthen enamel and protect your teeth from decay, particularly beneficial for those at higher risk for cavities.</li>
                     </ul>
                     <h4 style="font-size: 22px; margin-bottom: 20px;">The Cochrane Valley Dental Hygiene Advantage</h4>
                 </div>
@@ -214,7 +202,7 @@
                         </div>
                         <div>
                             <h4 style="font-size: 18px; margin-bottom: 5px;">Comprehensive Services</h4>
-                            <p>We offer professional cleaning, gum care, fluoride treatments and education on how to
+                            <p>As a leading Dental Clinic in Cochrane, we offer professional cleaning, gum care, fluoride treatments and education on how to
                                 maintain optimal hygiene at home.</p>
                         </div>
                     </li>
@@ -255,7 +243,7 @@
 <!-- Common Issues End -->
 
 <!-- What to Do Start -->
-<section class="working-process-one" style="background: var(--mediplace-black); padding: 140px 0 200px; color: #fff;">
+<section class="working-process-one" style="display: block !important; background: var(--mediplace-black); padding: 140px 0 200px; color: #fff;">
     <div class="container">
         <div class="section-title text-center sec-title-animation animation-style1">
             <div class="section-title__tagline-box">
@@ -273,7 +261,7 @@
                         01</div>
                     <h3 style="color: #fff;">Schedule Regular Cleanings</h3>
                     <p style="color: rgba(255,255,255,0.8);">Make regular visits to our office to keep your teeth and
-                        gums clean and healthy—generally every 6 months for the best results.</p>
+                        gums clean and healthy - generally every 6 months for the best results.</p>
                 </div>
             </div>
             <div class="col-xl-3 col-lg-6 col-md-6">
@@ -328,8 +316,8 @@
                             style="font-size: 38px; font-weight: 800; color: #fff; margin-bottom: 10px; line-height: 1.2; font-family: var(--mediplace-font-two);">
                             Ready to Maintain a <span style="opacity: 0.9;">Healthy Smile?</span></h2>
                         <p style="font-size: 18px; color: rgba(255,255,255,0.95); margin-bottom: 0;">
-                            Book your dental hygiene appointment today at Cochrane Valley Dental and take the first step
-                            towards keeping your smile bright and healthy for years to come!
+                            Book your dental hygiene appointment today at Cochrane Valley Dental, your trusted Dental Clinic in Cochrane and take the first step
+                            toward keeping your smile bright, healthy and confident for years to come.
                         </p>
                     </div>
                 </div>

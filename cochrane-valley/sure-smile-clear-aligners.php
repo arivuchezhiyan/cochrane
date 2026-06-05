@@ -49,7 +49,7 @@
                     <div class="section-title text-left sec-title-animation animation-style1">
                         <div class="section-title__tagline-box">
                             <span class="icon-tooth"></span>
-                            <p class="section-title__tagline">Straighten Your Smile</p>
+                            <p class="section-title__tagline">Clear Aligners: Your Path to a Confident Smile</p>
                         </div>
                         <h2 class="section-title__title title-animation">
                             Sure Smile <span>Clear Aligners</span>
@@ -169,7 +169,7 @@
                     </div>
                     <h2 class="section-title__title title-animation">SureSmile vs <span>Metal Braces</span></h2>
                 </div>
-                <div class="before-after-two__content-text">
+                <div class="before-after-two__content-text" style="display: block !important;">
                     <p>Modern orthodontic technology makes it easier to achieve the smile you desire with improved comfort and efficiency.</p>
                 </div>
                 <ul class="list-unstyled" style="margin-top: 30px;">
@@ -218,7 +218,7 @@
 <!-- Comparison End -->
 
 <!-- Simple Steps Start -->
-<section class="working-process-one" style="background: var(--mediplace-black); padding: 140px 0 200px; color: #fff;">
+<section class="working-process-one" style="background: var(--mediplace-black); padding: 140px 0 200px; color: #fff; display: block !important;">
     <div class="container">
         <div class="section-title text-center sec-title-animation animation-style1">
             <div class="section-title__tagline-box">

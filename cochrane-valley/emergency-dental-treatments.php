@@ -49,18 +49,16 @@
                     <div class="section-title text-left sec-title-animation animation-style1">
                         <div class="section-title__tagline-box">
                             <span class="icon-tooth"></span>
-                            <p class="section-title__tagline">Immediate Dental Care</p>
+                            <p class="section-title__tagline">The Modern Way to Handle Dental Emergencies</p>
                         </div>
                         <h2 class="section-title__title title-animation">
-                            Emergency Dental <span>Treatments</span>
+                            Emergency Dental <span>Treatments</span>: Quick Relief When You Need It Most
                         </h2>
                     </div>
                     <p class="about-one__text">
                         At Cochrane Valley Dental, we provide immediate care for a wide range of dental emergencies.
-                        Whether it's a severe toothache, a knocked-out tooth, or any unexpected dental issue, our
-                        skilled team is here to help restore your smile and comfort quickly. We understand that dental
-                        emergencies can be stressful, which is why we offer prompt and effective treatments to alleviate
-                        pain and prevent further complications.
+                        Whether it's a severe toothache, a knocked-out tooth or any unexpected dental issue, our
+                        skilled team is here to help restore your smile and comfort quickly. If you're searching for an Emergency Dentist Cochrane, we understand that dental emergencies can be stressful, which is why we offer prompt and effective treatments to alleviate pain and prevent further complications.
                     </p>
                     <div class="about-one__points-and-experience-box">
                         <ul class="about-one__points-box">
@@ -94,7 +92,7 @@
                                 <div class="about-one__btn">
                                     <a href="appointment.php" class="thm-btn">
                                         <span class="fas fa-calendar-alt"></span>
-                                         Book Your Dental Implant Consultation Today
+                                         Book Your Emergency Appointment Today
                                     </a>
                                 </div>
                             </div>
@@ -124,7 +122,7 @@
                     </div>
                     <h3>Quick Pain Relief</h3>
                     <p>Receive fast treatment to ease the pain and discomfort of dental emergencies, whether it's from a
-                        broken tooth, abscess, or injury.</p>
+                        broken tooth, abscess or injury.</p>
                 </div>
             </div>
             <div class="col-xl-3 col-lg-6 col-md-6">
@@ -145,7 +143,7 @@
                         <i class="fas fa-shield-alt"></i>
                     </div>
                     <h3>Prevent Long-Term Damage</h3>
-                    <p>Address issues early to prevent further complications, such as infections, misalignments, or more
+                    <p>Address issues early to prevent further complications, such as infections, misalignments or more
                         extensive treatments down the road.</p>
                 </div>
             </div>
@@ -178,7 +176,7 @@
                     <h2 class="section-title__title title-animation">Common Dental Emergencies <span>We Treat</span>
                     </h2>
                 </div>
-                <!-- <div class="before-after-two__content-text">
+                <div class="before-after-two__content-text" style="display: block !important;">
                     <p>We offer professional care for many urgent dental issues, including:</p>
                     <ul style="margin: 15px 0 25px 20px; list-style-type: disc; color: var(--mediplace-text);">
                         <li>Toothaches & Sensitivity</li>
@@ -188,9 +186,8 @@
                         <li>Lost Dental Fillings or Crowns</li>
                         <li>Broken Braces & Wires</li>
                     </ul>
-                    <h4 style="font-size: 22px; margin-bottom: 20px;">The Cochrane Valley Dental Emergency Care
-                        Advantage</h4>
-                </div> -->
+                    <h4 style="font-size: 22px; margin-bottom: 20px;">The Cochrane Valley Dental Emergency Care Advantage</h4>
+                </div>
                 <ul class="list-unstyled" style="margin-top: 10px;">
                     <li
                         style="display: flex; align-items: flex-start; margin-bottom: 20px; background: #fff; padding: 20px; border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.05);">
@@ -200,7 +197,7 @@
                         </div>
                         <div>
                             <h4 style="font-size: 18px; margin-bottom: 5px;">Immediate Attention</h4>
-                            <p>No need to wait for an appointment—our team is ready to provide urgent care and relief
+                            <p>No need to wait for an appointment - our team is ready to provide urgent care and relief
                                 when you need it most.</p>
                         </div>
                     </li>
@@ -212,7 +209,7 @@
                         </div>
                         <div>
                             <h4 style="font-size: 18px; margin-bottom: 5px;">Comprehensive Services</h4>
-                            <p>Whether it’s pain management, emergency repair, or guidance for ongoing treatment, we
+                            <p>Whether it’s pain management, emergency repair or guidance for ongoing treatment, we
                                 provide all-encompassing care for your dental emergency.</p>
                         </div>
                     </li>
@@ -253,7 +250,7 @@
 <!-- Common Issues End -->
 
 <!-- What to Do Start -->
-<!-- <section class="working-process-one" style="background: var(--mediplace-black); padding: 140px 0 200px; color: #fff;">
+<section class="working-process-one" style="display: block !important; background: var(--mediplace-black); padding: 140px 0 200px; color: #fff;">
     <div class="container">
         <div class="section-title text-center sec-title-animation animation-style1">
             <div class="section-title__tagline-box">
@@ -306,7 +303,7 @@
             </div>
         </div>
     </div>
-</section> -->
+</section>
 <!-- What to Do End -->
 
 <!-- Compact Premium CTA Start -->
@@ -327,7 +324,8 @@
                             Ready to Get <span style="opacity: 0.9;">Immediate Relief?</span></h2>
                         <p style="font-size: 18px; color: rgba(255,255,255,0.95); margin-bottom: 0;">
                             Book your emergency appointment today and get the care you need to restore your smile and
-                            comfort at Cochrane Valley Dental. We’re here when you need us most!
+                            comfort at Cochrane Valley Dental. When you need a trusted Emergency Dentist Cochrane, our
+                            team is here to provide prompt, compassionate care when you need it most.
                         </p>
                     </div>
                 </div>
@@ -377,8 +375,7 @@
                             <div class="accrodion-content">
                                 <div class="inner">
                                     <p>We treat a wide range of dental emergencies, including tooth pain, fractures,
-                                        lost fillingsand injuries. If you're experiencing a dental emergency, contact
-                                        us right away for quick, effective care.</p>
+                                        lost fillings and injuries. If you're experiencing a dental emergency and need an Emergency Dentist Cochrane, contact us right away for quick, effective care.</p>
                                 </div>
                             </div>
                         </div>
@@ -399,7 +396,7 @@
                             </div>
                             <div class="accrodion-content">
                                 <div class="inner">
-                                    <p>Call our office directly or book online for immediate assistance—our team is here
+                                    <p>Call our office directly or book online for immediate assistance - our team is here
                                         to provide fast and effective care for all dental emergencies.</p>
                                 </div>
                             </div>

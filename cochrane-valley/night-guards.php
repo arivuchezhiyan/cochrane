@@ -49,17 +49,14 @@
                     <div class="section-title text-left sec-title-animation animation-style1">
                         <div class="section-title__tagline-box">
                             <span class="icon-tooth"></span>
-                            <p class="section-title__tagline">Prevent Teeth Grinding</p>
+                            <p class="section-title__tagline">The Modern Way to Protect Your Smile While You Sleep</p>
                         </div>
                         <h2 class="section-title__title title-animation">
-                            Night <span>Guards</span>
+                            Night <span>Guards</span>: Essential Protection for Teeth Grinding & Jaw Health
                         </h2>
                     </div>
                     <p class="about-one__text">
-                        At Cochrane Valley Dental, we understand how teeth grinding and clenching can silently damage
-                        your smile. Our custom-made night guards are designed to protect your teeth, relieve jaw
-                        discomfort and promote better sleep. Whether you suffer from bruxism or jaw tension, our expert
-                        team provides personalized solutions to keep your teeth safe and your smile healthy.
+                        At Cochrane Valley Dental, we understand how teeth grinding and clenching can silently damage your smile. If you've been searching for a trusted Dental Clinic Near Me, our custom-made night guards are designed to protect your teeth, relieve jaw discomfort and promote better sleep. Whether you suffer from bruxism or jaw tension, our expert team provides personalized solutions to keep your teeth safe and your smile healthy.
                     </p>
                     <div class="about-one__points-and-experience-box">
                         <ul class="about-one__points-box">
@@ -176,7 +173,7 @@
                     </div>
                     <h2 class="section-title__title title-animation">The Importance of <span>Night Guards</span></h2>
                 </div>
-                <div class="before-after-two__content-text">
+                <div class="before-after-two__content-text" style="display: block !important;">
                     <ul style="margin: 15px 0 25px 20px; list-style-type: disc; color: var(--mediplace-text);">
                         <li><strong>Protection Against Bruxism:</strong> Teeth grinding (bruxism) can cause serious
                             long-term damage. Night guards provide a cushion that protects your teeth from excessive
@@ -237,8 +234,7 @@
                         </div>
                         <div>
                             <h4 style="font-size: 18px; margin-bottom: 5px;">Ongoing Support & Adjustments</h4>
-                            <p>We provide follow-up care and adjustments to ensure your night guard continues to fit and
-                                function optimally.</p>
+                            <p>When choosing a Dental Clinic Near Me for night guard treatment, ongoing care matters. We provide follow-up care and adjustments to ensure your night guard continues to fit and function optimally.</p>
                         </div>
                     </li>
                 </ul>
@@ -254,7 +250,7 @@
 <!-- Common Issues End -->
 
 <!-- What to Do Start -->
-<section class="working-process-one" style="background: var(--mediplace-black); padding: 140px 0 200px; color: #fff;">
+<section class="working-process-one" style="display: block !important; background: var(--mediplace-black); padding: 140px 0 200px; color: #fff;">
     <div class="container">
         <div class="section-title text-center sec-title-animation animation-style1">
             <div class="section-title__tagline-box">
@@ -327,9 +323,7 @@
                             style="font-size: 38px; font-weight: 800; color: #fff; margin-bottom: 10px; line-height: 1.2; font-family: var(--mediplace-font-two);">
                             Ready to Protect Your Smile <span style="opacity: 0.9;">While You Sleep?</span></h2>
                         <p style="font-size: 18px; color: rgba(255,255,255,0.95); margin-bottom: 0;">
-                            Book your night guard consultation today at Cochrane Valley Dental and take the first step
-                            toward preventing damage, reducing discomfortand maintaining a confident smile for years
-                            to come!
+                            Book your night guard consultation today at Cochrane Valley Dental. If you're looking for a reliable Dental Clinic Near Me, our team is here to help you prevent damage, reduce discomfort and maintain a healthy, confident smile for years to come.
                         </p>
                     </div>
                 </div>
