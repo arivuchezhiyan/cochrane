@@ -49,14 +49,14 @@
                     <div class="section-title text-left sec-title-animation animation-style1">
                         <div class="section-title__tagline-box">
                             <span class="icon-tooth"></span>
-                            <p class="section-title__tagline">Advanced Dental Imaging</p>
+                            <p class="section-title__tagline">Advanced Imaging for Accurate Dental Care</p>
                         </div>
                         <h2 class="section-title__title title-animation">
                             Digital X-Rays & <span>Radiographs</span>
                         </h2>
                     </div>
                     <p class="about-one__text">
-                        At Cochrane Valley Dental, accurate diagnosis is the foundation of effective treatment. Our digital X-rays and radiographs provide detailed images of your teeth, jaw and surrounding oral structures, allowing us to identify concerns that may not be visible during a routine examination. Using advanced imaging technology, we can detect issues early, plan treatments more precisely and help you maintain a healthier smile for years to come.
+                        At Cochrane Valley Dental, accurate diagnosis is the foundation of effective treatment. As a trusted Dental Clinic in Cochrane, we use digital X-rays and radiographs to provide detailed images of your teeth, jaw and surrounding oral structures, allowing us to identify concerns that may not be visible during a routine examination. Using advanced imaging technology, we can detect issues early, plan treatments more precisely and help you maintain a healthier smile for years to come.
                     </p>
                     <div class="about-one__points-and-experience-box">
                         <ul class="about-one__points-box">
@@ -169,7 +169,7 @@
                     </div>
                     <h2 class="section-title__title title-animation">The Importance of <span>Digital X-Rays & Radiographs</span></h2>
                 </div>
-                <div class="before-after-two__content-text">
+                <div class="before-after-two__content-text" style="display: block !important;">
                     <ul style="margin: 15px 0 25px 20px; list-style-type: disc; color: var(--mediplace-text);">
                         <li><strong>Provides a Complete View of Oral Health:</strong> X-rays allow us to evaluate areas beneath the gums and inside the teeth that are not visible during a standard examination.</li>
                         <li><strong>Monitors Changes Over Time:</strong> Routine imaging helps track the progression of oral health conditions and supports preventive care.</li>
@@ -209,7 +209,7 @@
                         </div>
                         <div>
                             <h4 style="font-size: 18px; margin-bottom: 5px;">Improved Treatment Precision</h4>
-                            <p>Detailed radiographs provide valuable information that helps guide treatment decisions and improve outcomes.</p>
+                            <p>Patients visiting our Dental Clinic in Cochrane benefit from detailed radiographs that provide valuable information to guide treatment decisions and improve outcomes.</p>
                         </div>
                     </li>
                     <li
@@ -235,7 +235,7 @@
 <!-- Importance Section End -->
 
 <!-- What to Do Start -->
-<section class="working-process-one" style="background: var(--mediplace-black); padding: 140px 0 200px; color: #fff;">
+<section class="working-process-one" style="display: block !important; background: var(--mediplace-black); padding: 140px 0 200px; color: #fff;">
     <div class="container">
         <div class="section-title text-center sec-title-animation animation-style1">
             <div class="section-title__tagline-box">
@@ -303,7 +303,7 @@
                             style="font-size: 38px; font-weight: 800; color: #fff; margin-bottom: 10px; line-height: 1.2; font-family: var(--mediplace-font-two);">
                             Ready for a Clearer Picture of <span style="opacity: 0.9;">Your Oral Health?</span></h2>
                         <p style="font-size: 18px; color: rgba(255,255,255,0.95); margin-bottom: 0;">
-                            Schedule your appointment at Cochrane Valley Dental today and benefit from advanced digital X-rays and radiographs that help us diagnose concerns early, plan treatments accurately and keep your smile healthy and strong.
+                            Schedule your appointment at Cochrane Valley Dental today and discover why patients trust our Dental Clinic in Cochrane for advanced diagnostic care. Benefit from digital X-rays and radiographs that help us detect concerns early, plan treatments accurately and keep your smile healthy and strong.
                         </p>
                     </div>
                 </div>
