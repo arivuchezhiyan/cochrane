@@ -49,14 +49,14 @@
                     <div class="section-title text-left sec-title-animation animation-style1">
                         <div class="section-title__tagline-box">
                             <span class="icon-tooth"></span>
-                            <p class="section-title__tagline">Restore Damaged Teeth</p>
+                            <p class="section-title__tagline">Reliable Solutions for Damaged and Missing Teeth</p>
                         </div>
                         <h2 class="section-title__title title-animation">
                             Crowns & <span>Bridges</span>
                         </h2>
                     </div>
                     <p class="about-one__text">
-                        At Cochrane Valley Dental, we believe every smile deserves to look, feel and function at its best. Crowns and bridges are versatile restorative treatments designed to repair damaged teeth and replace missing ones, helping you regain confidence in your smile. Whether you're dealing with a weakened tooth or a gap caused by tooth loss, our customized restorations are crafted to blend naturally with your existing teeth while restoring long-term function and comfort.
+                        At Cochrane Valley Dental, we believe every smile deserves to look, feel and function at its best. If you're considering Dental Crowns and Bridges Cochrane, our restorative treatments are designed to repair damaged teeth and replace missing ones, helping you regain confidence in your smile. Whether you're dealing with a weakened tooth or a gap caused by tooth loss, our customized restorations are crafted to blend naturally with your existing teeth while restoring long-term function and comfort.
                     </p>
                     <div class="about-one__points-and-experience-box">
                         <ul class="about-one__points-box">
@@ -169,7 +169,7 @@
                     </div>
                     <h2 class="section-title__title title-animation">The Importance of <span>Crowns & Bridges</span></h2>
                 </div>
-                <div class="before-after-two__content-text">
+                <div class="before-after-two__content-text" style="display: block !important;">
                     <ul style="margin: 15px 0 25px 20px; list-style-type: disc; color: var(--mediplace-text);">
                         <li><strong>Protect Vulnerable Teeth:</strong> Crowns provide an added layer of strength for teeth that might otherwise be at risk of further damage.</li>
                         <li><strong>Maintain Proper Tooth Alignment:</strong> Replacing missing teeth helps prevent neighboring teeth from shifting out of position.</li>
@@ -198,7 +198,7 @@
                         </div>
                         <div>
                             <h4 style="font-size: 18px; margin-bottom: 5px;">High-Quality Restorative Materials</h4>
-                            <p>Our restorations are crafted using durable materials designed for both aesthetics and longevity.</p>
+                            <p>Patients seeking Dental Crowns and Bridges Cochrane can trust our durable, high-quality materials that are designed for both aesthetics and long-term performance.</p>
                         </div>
                     </li>
                     <li
@@ -235,7 +235,7 @@
 <!-- Importance Section End -->
 
 <!-- What to Do Start -->
-<section class="working-process-one" style="background: var(--mediplace-black); padding: 140px 0 200px; color: #fff;">
+<section class="working-process-one" style="display: block !important; background: var(--mediplace-black); padding: 140px 0 200px; color: #fff;">
     <div class="container">
         <div class="section-title text-center sec-title-animation animation-style1">
             <div class="section-title__tagline-box">
@@ -303,7 +303,7 @@
                             style="font-size: 38px; font-weight: 800; color: #fff; margin-bottom: 10px; line-height: 1.2; font-family: var(--mediplace-font-two);">
                             Ready to Restore Your Smile with <span style="opacity: 0.9;">Confidence?</span></h2>
                         <p style="font-size: 18px; color: rgba(255,255,255,0.95); margin-bottom: 0;">
-                            Book your crowns and bridges consultation at Cochrane Valley Dental today and discover how custom restorative solutions can strengthen your teeth, replace missing ones and help you enjoy a healthier, more complete smile.
+                            Book your consultation today and discover why patients trust Cochrane Valley Dental for Dental Crowns and Bridges Cochrane. Let our custom restorative solutions strengthen your teeth, replace missing ones and help you enjoy a healthier, more complete smile.
                         </p>
                     </div>
                 </div>
