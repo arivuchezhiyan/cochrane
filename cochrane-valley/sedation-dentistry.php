@@ -49,18 +49,14 @@
                     <div class="section-title text-left sec-title-animation animation-style1">
                         <div class="section-title__tagline-box">
                             <span class="icon-tooth"></span>
-                            <p class="section-title__tagline">Anxiety-Free Dental Care</p>
+                            <p class="section-title__tagline">A Calmer, More Comfortable Approach to Dental Care</p>
                         </div>
                         <h2 class="section-title__title title-animation">
-                            Sedation <span>Dentistry</span>
+                            Sedation <span>Dentistry</span>: Relaxed, Stress-Free Dental Experiences
                         </h2>
                     </div>
                     <p class="about-one__text">
-                        At Cochrane Valley Dental, we know that dental visits can feel overwhelming for many patients.
-                        That’s why our sedation dentistry services are designed to create a calm, worry-free environment
-                        where you can receive the care you need without fear or discomfort. Whether you’re anxious about
-                        treatment or undergoing a lengthy procedure, our team ensures a smooth and relaxing experience
-                        from start to finish.
+                        At Cochrane Valley Dental, we know that dental visits can feel overwhelming for many patients. That's why our Sedation Dentistry Cochrane services are designed to create a calm, worry-free environment where you can receive the care you need without fear or discomfort. Whether you're anxious about treatment or undergoing a lengthy procedure, our team ensures a smooth and relaxing experience from start to finish.
                     </p>
                     <div class="about-one__points-and-experience-box">
                         <ul class="about-one__points-box">
@@ -94,7 +90,7 @@
                                 <div class="about-one__btn">
                                     <a href="appointment.php" class="thm-btn">
                                         <span class="fas fa-calendar-alt"></span>
-                                         Book Your Sedation Dentistry Consultation Today
+                                         Schedule Your Sedation Dentistry Consultation Today
                                     </a>
                                 </div>
                             </div>
@@ -134,7 +130,7 @@
                         <i class="fas fa-heart"></i>
                     </div>
                     <h3>Enhanced Comfort During Treatment</h3>
-                    <p>Combined with local anesthesia, sedation ensures a smooth and pain-free dental experience.</p>
+                    <p>Combined with local anesthesia, sedation ensures a smooth and comfortable dental experience.</p>
                 </div>
             </div>
             <div class="col-xl-3 col-lg-6 col-md-6">
@@ -155,8 +151,7 @@
                         <i class="fas fa-heartbeat"></i>
                     </div>
                     <h3>Great for Sensitive Patients</h3>
-                    <p>Helps those with sensitive teeth, gag reflex issues, or difficulty staying still feel more at
-                        ease.</p>
+                    <p>Helps those with sensitive teeth, gag reflex issues or difficulty staying still feel more at ease.</p>
                 </div>
             </div>
         </div>
@@ -177,7 +172,7 @@
                     <h2 class="section-title__title title-animation">Why Is Sedation Dentistry <span>Important?</span>
                     </h2>
                 </div>
-                <div class="before-after-two__content-text">
+                <div class="before-after-two__content-text" style="display: block !important;">
                     <ul style="margin: 15px 0 25px 20px; list-style-type: disc; color: var(--mediplace-text);">
                         <li><strong>Encourages Regular Dental Visits:</strong> By removing fear and discomfort, patients
                             are more likely to maintain consistent oral care routines.</li>
@@ -235,7 +230,7 @@
                         </div>
                         <div>
                             <h4 style="font-size: 18px; margin-bottom: 5px;">Modern Techniques & Technology</h4>
-                            <p>We use advanced methods to ensure a seamless and comfortable dental experience.</p>
+                            <p>Patients seeking Sedation Dentistry Cochrane can feel confident knowing we use advanced methods and technologies to ensure a seamless and comfortable dental experience.</p>
                         </div>
                     </li>
                 </ul>
@@ -250,7 +245,7 @@
 <!-- Common Issues End -->
 
 <!-- What to Do Start -->
-<section class="working-process-one" style="background: var(--mediplace-black); padding: 140px 0 200px; color: #fff;">
+<section class="working-process-one" style="display: block !important; background: var(--mediplace-black); padding: 140px 0 200px; color: #fff;">
     <div class="container">
         <div class="section-title text-center sec-title-animation animation-style1">
             <div class="section-title__tagline-box">
@@ -322,8 +317,7 @@
                             style="font-size: 38px; font-weight: 800; color: #fff; margin-bottom: 10px; line-height: 1.2; font-family: var(--mediplace-font-two);">
                             Ready for a More Relaxing <span style="opacity: 0.9;">Dental Experience?</span></h2>
                         <p style="font-size: 18px; color: rgba(255,255,255,0.95); margin-bottom: 0;">
-                            Book your sedation dentistry consultation today at Cochrane Valley Dental and discover how
-                            comfortable, stress-free dental care can transform your smile journey!
+                            Book your consultation today and discover why patients choose Sedation Dentistry Cochrane at Cochrane Valley Dental. Experience comfortable, stress-free dental care designed to help you feel at ease throughout your smile journey.
                         </p>
                     </div>
                 </div>
