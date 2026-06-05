@@ -49,14 +49,14 @@
                     <div class="section-title text-left sec-title-animation animation-style1">
                         <div class="section-title__tagline-box">
                             <span class="icon-tooth"></span>
-                            <p class="section-title__tagline">Custom Smile Restoration</p>
+                            <p class="section-title__tagline">Custom Solutions for Missing Teeth</p>
                         </div>
                         <h2 class="section-title__title title-animation">
                             Dentures & <span>Partials</span>
                         </h2>
                     </div>
                     <p class="about-one__text">
-                        At Cochrane Valley Dental, we understand how missing teeth can affect your confidence, speech, and ability to enjoy everyday activities. Dentures and partial dentures offer a dependable and effective way to restore your smile, helping you regain comfort and functionality. Whether you are missing several teeth or an entire arch, our custom-crafted solutions are designed to fit comfortably, look natural, and support your overall oral health.
+                        At Cochrane Valley Dental, we understand how missing teeth can affect your confidence, speech and ability to enjoy everyday activities. If you've been searching for a trusted Dental Clinic Near Me, our dentures and partial denture solutions offer a dependable and effective way to restore your smile. Whether you are missing several teeth or an entire arch, our custom-crafted restorations are designed to fit comfortably, look natural and support your overall oral health.
                     </p>
                     <div class="about-one__points-and-experience-box">
                         <ul class="about-one__points-box">
@@ -169,7 +169,7 @@
                     </div>
                     <h2 class="section-title__title title-animation">The Importance of <span>Dentures & Partials</span></h2>
                 </div>
-                <div class="before-after-two__content-text">
+                <div class="before-after-two__content-text" style="display: block !important;">
                     <ul style="margin: 15px 0 25px 20px; list-style-type: disc; color: var(--mediplace-text);">
                         <li><strong>Support Facial Appearance:</strong> Missing teeth can lead to changes in facial structure over time. Dentures help maintain facial support and balance.</li>
                         <li><strong>Enhance Speech Clarity:</strong> Replacing missing teeth can improve pronunciation and help you communicate more confidently.</li>
@@ -198,7 +198,7 @@
                         </div>
                         <div>
                             <h4 style="font-size: 18px; margin-bottom: 5px;">Custom-Crafted Restorations</h4>
-                            <p>Our dentures and partials are carefully designed to provide a natural appearance and secure fit.</p>
+                            <p>Patients looking for a dependable Dental Clinic Near Me can trust our custom-made dentures and partials to provide a natural appearance and secure fit.</p>
                         </div>
                     </li>
                     <li
@@ -235,7 +235,7 @@
 <!-- Importance Section End -->
 
 <!-- What to Do Start -->
-<section class="working-process-one" style="background: var(--mediplace-black); padding: 140px 0 200px; color: #fff;">
+<section class="working-process-one" style="display: block !important; background: var(--mediplace-black); padding: 140px 0 200px; color: #fff;">
     <div class="container">
         <div class="section-title text-center sec-title-animation animation-style1">
             <div class="section-title__tagline-box">
@@ -303,7 +303,7 @@
                             style="font-size: 38px; font-weight: 800; color: #fff; margin-bottom: 10px; line-height: 1.2; font-family: var(--mediplace-font-two);">
                             Ready to Restore Your Smile and <span style="opacity: 0.9;">Confidence?</span></h2>
                         <p style="font-size: 18px; color: rgba(255,255,255,0.95); margin-bottom: 0;">
-                            Book your dentures and partials consultation at Cochrane Valley Dental today and discover a personalized tooth replacement solution designed to help you smile, speak and eat with greater comfort and confidence.
+                            Book your dentures and partial consultation at Cochrane Valley Dental today. If you're searching for a trusted Dental Clinic Near Me, discover a personalized tooth replacement solution designed to help you smile, speak and eat with greater comfort and confidence.
                         </p>
                     </div>
                 </div>
