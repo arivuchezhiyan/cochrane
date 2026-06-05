@@ -49,14 +49,14 @@
                     <div class="section-title text-left sec-title-animation animation-style1">
                         <div class="section-title__tagline-box">
                             <span class="icon-tooth"></span>
-                            <p class="section-title__tagline">Active Smile Protection</p>
+                            <p class="section-title__tagline">Custom Protection for Teeth, Gums and Jaw Health</p>
                         </div>
                         <h2 class="section-title__title title-animation">
                             Custom <span>Mouthguards</span>
                         </h2>
                     </div>
                     <p class="about-one__text">
-                        At Cochrane Valley Dental, we believe prevention is one of the best investments you can make in your oral health. Whether you're an athlete, participate in recreational sports, or simply want added protection for your teeth, a custom mouthguard can help reduce the risk of dental injuries. Designed for comfort, durability and a precise fit, our mouthguards provide reliable protection so you can focus on the activity - not the risks.
+                        At Cochrane Valley Dental, we believe prevention is one of the best investments you can make in your oral health. Whether you're an athlete, participate in recreational sports, or simply want added protection for your teeth, a custom mouthguard can help reduce the risk of dental injuries. If you've been searching for a trusted Dentist Near Me, our custom-made mouthguards are designed for comfort, durability and a precise fit, providing reliable protection so you can focus on the activity - not the risks.
                     </p>
                     <div class="about-one__points-and-experience-box">
                         <ul class="about-one__points-box">
@@ -169,7 +169,7 @@
                     </div>
                     <h2 class="section-title__title title-animation">The Importance of <span>Mouthguards</span></h2>
                 </div>
-                <div class="before-after-two__content-text">
+                <div class="before-after-two__content-text" style="display: block !important;">
                     <ul style="margin: 15px 0 25px 20px; list-style-type: disc; color: var(--mediplace-text);">
                         <li><strong>Reduces the Risk of Dental Emergencies:</strong> Protective mouthguards help prevent common sports-related dental injuries that may require extensive treatment.</li>
                         <li><strong>Encourages Safer Participation:</strong> Athletes can participate in sports and recreational activities with greater confidence and protection.</li>
@@ -209,7 +209,7 @@
                         </div>
                         <div>
                             <h4 style="font-size: 18px; margin-bottom: 5px;">Personalized Recommendations</h4>
-                            <p>Our team helps determine the most appropriate mouthguard based on your activity level and needs.</p>
+                            <p>Patients looking for a dependable Dentist Near Me can rely on our team to recommend the most appropriate mouthguard based on their activity level and protection needs.</p>
                         </div>
                     </li>
                     <li
@@ -235,7 +235,7 @@
 <!-- Importance Section End -->
 
 <!-- What to Do Start -->
-<section class="working-process-one" style="background: var(--mediplace-black); padding: 140px 0 200px; color: #fff;">
+<section class="working-process-one" style="display: block !important; background: var(--mediplace-black); padding: 140px 0 200px; color: #fff;">
     <div class="container">
         <div class="section-title text-center sec-title-animation animation-style1">
             <div class="section-title__tagline-box">
@@ -303,7 +303,7 @@
                             style="font-size: 38px; font-weight: 800; color: #fff; margin-bottom: 10px; line-height: 1.2; font-family: var(--mediplace-font-two);">
                             Ready to Give Your Smile the <span style="opacity: 0.9;">Protection It Deserves?</span></h2>
                         <p style="font-size: 18px; color: rgba(255,255,255,0.95); margin-bottom: 0;">
-                            Book your mouthguard consultation at Cochrane Valley Dental today and discover a comfortable, custom-fit solution designed to protect your teeth, gums and jaw during every game, practice and adventure.
+                            Book your mouthguard consultation at Cochrane Valley Dental today. If you're searching for a trusted Dentist Near Me, discover a comfortable, custom-fit solution designed to protect your teeth, gums and jaw during every game, practice and adventure.
                         </p>
                     </div>
                 </div>
