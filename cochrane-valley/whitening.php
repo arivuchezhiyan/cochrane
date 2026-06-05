@@ -49,18 +49,14 @@
                     <div class="section-title text-left sec-title-animation animation-style1">
                         <div class="section-title__tagline-box">
                             <span class="icon-tooth"></span>
-                            <p class="section-title__tagline">Brighten Your Smile</p>
+                            <p class="section-title__tagline">Reveal a Brighter, More Confident Smile Today</p>
                         </div>
                         <h2 class="section-title__title title-animation">
-                            Teeth <span>Whitening</span>
+                            Teeth <span>Whitening</span>: Safe, Effective Smile Enhancement
                         </h2>
                     </div>
                     <p class="about-one__text">
-                        At Cochrane Valley Dental, we help you achieve a noticeably whiter smile with professional teeth
-                        whitening solutions tailored to your needs. Over time, teeth can become stained from coffee,
-                        tea, wine, smoking and everyday habits. Our advanced whitening treatments are designed to lift
-                        stains safely and restore the natural brilliance of your smile - giving you renewed confidence
-                        in every interaction.
+                        At Cochrane Valley Dental, we help you achieve a noticeably whiter smile with professional teeth whitening solutions tailored to your needs. If you're looking for Teeth Whitening Cochrane, our advanced treatments are designed to safely lift stains caused by coffee, tea, wine, smoking and everyday habits while restoring the natural brilliance of your smile - giving you renewed confidence in every interaction.
                     </p>
                     <div class="about-one__points-and-experience-box">
                         <ul class="about-one__points-box">
@@ -94,7 +90,7 @@
                                 <div class="about-one__btn">
                                     <a href="appointment.php" class="thm-btn">
                                         <span class="fas fa-calendar-alt"></span>
-                                         Book Your Teeth Whitening Consultation Today
+                                         Book Your Teeth Whitening Appointment Today
                                     </a>
                                 </div>
                     </div>
@@ -176,7 +172,7 @@
                     </div>
                     <h2 class="section-title__title title-animation">The Importance of <span>Teeth Whitening</span></h2>
                 </div>
-                <div class="before-after-two__content-text">
+                <div class="before-after-two__content-text" style="display: block !important;">
                     <ul style="margin: 15px 0 25px 20px; list-style-type: disc; color: var(--mediplace-text);">
                         <li><strong>Restores Natural Brightness:</strong> Whitening helps bring back the natural color
                             of your teeth, making your smile look healthier and more vibrant.</li>
@@ -210,8 +206,7 @@
                         </div>
                         <div>
                             <h4 style="font-size: 18px; margin-bottom: 5px;">Advanced Whitening Technology</h4>
-                            <p>We use modern techniques and high-quality products to achieve consistent and reliable
-                                results.</p>
+                            <p>Patients seeking Teeth Whitening Cochrane can benefit from modern techniques and high-quality whitening systems designed to deliver consistent and reliable results.</p>
                         </div>
                     </li>
                     <li
@@ -251,7 +246,7 @@
 <!-- Common Issues End -->
 
 <!-- What to Do Start -->
-<section class="working-process-one" style="background: var(--mediplace-black); padding: 140px 0 200px; color: #fff;">
+<section class="working-process-one" style="display: block !important; background: var(--mediplace-black); padding: 140px 0 200px; color: #fff;">
     <div class="container">
         <div class="section-title text-center sec-title-animation animation-style1">
             <div class="section-title__tagline-box">
@@ -324,8 +319,7 @@
                             style="font-size: 38px; font-weight: 800; color: #fff; margin-bottom: 10px; line-height: 1.2; font-family: var(--mediplace-font-two);">
                             Ready to Brighten <span style="opacity: 0.9;">Your Smile?</span></h2>
                         <p style="font-size: 18px; color: rgba(255,255,255,0.95); margin-bottom: 0;">
-                            Book your teeth whitening appointment today at Cochrane Valley Dental and take the first
-                            step toward a more radiant, confident smile that truly stands out!
+                            Book your appointment today and discover why so many patients choose Teeth Whitening Cochrane at Cochrane Valley Dental. Take the first step toward a more radiant, confident smile that truly stands out.
                         </p>
                     </div>
                 </div>
