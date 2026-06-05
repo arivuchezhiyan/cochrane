@@ -49,14 +49,14 @@
                     <div class="section-title text-left sec-title-animation animation-style1">
                         <div class="section-title__tagline-box">
                             <span class="icon-tooth"></span>
-                            <p class="section-title__tagline">Aesthetics & Wellness</p>
+                            <p class="section-title__tagline">A Modern Approach to Aesthetics and Wellness</p>
                         </div>
                         <h2 class="section-title__title title-animation">
                             Botox Cosmetic & <span>Therapeutic Treatment</span>
                         </h2>
                     </div>
                     <p class="about-one__text">
-                        At Cochrane Valley Dental, we offer Botox treatments that go beyond cosmetic enhancement. Whether you're looking to soften the appearance of fine lines and wrinkles or seeking relief from conditions such as jaw tension and teeth grinding, Botox can provide effective, minimally invasive results. Our personalized approach ensures treatments are tailored to your goals, helping you achieve a refreshed appearance and improved comfort with confidence.
+                        At Cochrane Valley Dental, we offer Botox treatments that go beyond cosmetic enhancement. Whether you're looking to soften the appearance of fine lines and wrinkles or seeking relief from conditions such as jaw tension and teeth grinding, Botox can provide effective, minimally invasive results. As a trusted Dental Clinic in Cochrane, we take a personalized approach to ensure treatments are tailored to your goals, helping you achieve a refreshed appearance and improved comfort with confidence.
                     </p>
                     <div class="about-one__points-and-experience-box">
                         <ul class="about-one__points-box">
@@ -169,7 +169,7 @@
                     </div>
                     <h2 class="section-title__title title-animation">The Importance of <span>Botox Cosmetic & Therapeutic Treatment</span></h2>
                 </div>
-                <div class="before-after-two__content-text">
+                <div class="before-after-two__content-text" style="display: block !important;">
                     <ul style="margin: 15px 0 25px 20px; list-style-type: disc; color: var(--mediplace-text);">
                         <li><strong>Promote a Refreshed Appearance:</strong> Botox can help create a more youthful and rested look by reducing the visibility of dynamic facial lines.</li>
                         <li><strong>Help Manage Muscle Tension:</strong> Targeted treatment may assist in relieving discomfort caused by overactive facial and jaw muscles.</li>
@@ -209,7 +209,7 @@
                         </div>
                         <div>
                             <h4 style="font-size: 18px; margin-bottom: 5px;">Personalized Treatment Plans</h4>
-                            <p>Every patient receives recommendations tailored to their facial anatomy, concerns and desired results.</p>
+                            <p>Patients visiting our Dental Clinic in Cochrane receive recommendations tailored to their facial anatomy, concerns and desired results.</p>
                         </div>
                     </li>
                     <li
@@ -235,7 +235,7 @@
 <!-- Importance Section End -->
 
 <!-- What to Do Start -->
-<section class="working-process-one" style="background: var(--mediplace-black); padding: 140px 0 200px; color: #fff;">
+<section class="working-process-one" style="display: block !important; background: var(--mediplace-black); padding: 140px 0 200px; color: #fff;">
     <div class="container">
         <div class="section-title text-center sec-title-animation animation-style1">
             <div class="section-title__tagline-box">
@@ -303,7 +303,7 @@
                             style="font-size: 38px; font-weight: 800; color: #fff; margin-bottom: 10px; line-height: 1.2; font-family: var(--mediplace-font-two);">
                             Ready to Explore the <span style="opacity: 0.9;">Benefits of Botox Treatment?</span></h2>
                         <p style="font-size: 18px; color: rgba(255,255,255,0.95); margin-bottom: 0;">
-                            Book your Botox cosmetic and therapeutic consultation at Cochrane Valley Dental today and discover a personalized approach to enhancing your appearance, improving comfort and supporting your overall well-being.
+                            Book your Botox cosmetic and therapeutic consultation at Cochrane Valley Dental today. As a leading Dental Clinic in Cochrane, we offer a personalized approach to enhancing your appearance, improving comfort and supporting your overall well-being.
                         </p>
                     </div>
                 </div>
