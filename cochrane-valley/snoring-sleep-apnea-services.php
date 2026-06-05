@@ -49,14 +49,14 @@
                     <div class="section-title text-left sec-title-animation animation-style1">
                         <div class="section-title__tagline-box">
                             <span class="icon-tooth"></span>
-                            <p class="section-title__tagline">Restful Sleep Solutions</p>
+                            <p class="section-title__tagline">Helping You Sleep Soundly and Wake Refreshed</p>
                         </div>
                         <h2 class="section-title__title title-animation">
                             Snoring & Sleep <span>Apnea Services</span>
                         </h2>
                     </div>
                     <p class="about-one__text">
-                        At Cochrane Valley Dental, we understand that quality sleep is essential for your overall health and well-being. Persistent snoring and sleep apnea can disrupt your sleep, affect your energy levels and impact your daily life. Our snoring and sleep apnea services are designed to help improve airflow during sleep, reduce interruptions and support healthier rest. Through personalized treatment solutions, we help patients achieve more comfortable nights and more productive days.
+                        At Cochrane Valley Dental, we understand that quality sleep is essential for your overall health and well-being. Persistent snoring and sleep apnea can disrupt your sleep, affect your energy levels and impact your daily life. If you've been searching for a trusted Dental Clinic Near Me, our snoring and sleep apnea services are designed to help improve airflow during sleep, reduce interruptions and support healthier rest. Through personalized treatment solutions, we help patients achieve more comfortable nights and more productive days.
                     </p>
                     <div class="about-one__points-and-experience-box">
                         <ul class="about-one__points-box">
@@ -169,7 +169,7 @@
                     </div>
                     <h2 class="section-title__title title-animation">The Importance of <span>Snoring & Sleep Apnea Care</span></h2>
                 </div>
-                <div class="before-after-two__content-text">
+                <div class="before-after-two__content-text" style="display: block !important;">
                     <ul style="margin: 15px 0 25px 20px; list-style-type: disc; color: var(--mediplace-text);">
                         <li><strong>Support Overall Health:</strong> Untreated sleep apnea may contribute to various health concerns and can affect your quality of life.</li>
                         <li><strong>Promote Healthy Sleep Patterns:</strong> Addressing breathing disruptions helps restore more consistent and restorative sleep.</li>
@@ -209,7 +209,7 @@
                         </div>
                         <div>
                             <h4 style="font-size: 18px; margin-bottom: 5px;">Patient-Focused Care</h4>
-                            <p>We take the time to explain your options and guide you through every step of treatment.</p>
+                            <p>Patients looking for a reliable Dental Clinic Near Me can count on our team to explain every treatment option and provide guidance throughout the entire process.</p>
                         </div>
                     </li>
                     <li
@@ -235,7 +235,7 @@
 <!-- Importance Section End -->
 
 <!-- What to Do Start -->
-<section class="working-process-one" style="background: var(--mediplace-black); padding: 140px 0 200px; color: #fff;">
+<section class="working-process-one" style="display: block !important; background: var(--mediplace-black); padding: 140px 0 200px; color: #fff;">
     <div class="container">
         <div class="section-title text-center sec-title-animation animation-style1">
             <div class="section-title__tagline-box">
@@ -303,7 +303,7 @@
                             style="font-size: 38px; font-weight: 800; color: #fff; margin-bottom: 10px; line-height: 1.2; font-family: var(--mediplace-font-two);">
                             Ready to Enjoy <span style="opacity: 0.9;">More Restful Nights?</span></h2>
                         <p style="font-size: 18px; color: rgba(255,255,255,0.95); margin-bottom: 0;">
-                            Book your snoring and sleep apnea consultation at Cochrane Valley Dental today and discover personalized solutions that can help you breathe easier, sleep better and wake up feeling refreshed and energized.
+                            Book your snoring and sleep apnea consultation at Cochrane Valley Dental today. If you're searching for a trusted Dental Clinic Near Me, discover personalized solutions that can help you breathe easier, sleep better and wake up feeling refreshed and energized.
                         </p>
                     </div>
                 </div>
