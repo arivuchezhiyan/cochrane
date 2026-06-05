@@ -49,14 +49,14 @@
                     <div class="section-title text-left sec-title-animation animation-style1">
                         <div class="section-title__tagline-box">
                             <span class="icon-tooth"></span>
-                            <p class="section-title__tagline">Save Infected Teeth</p>
+                            <p class="section-title__tagline">Effective Care for Infected or Damaged Teeth</p>
                         </div>
                         <h2 class="section-title__title title-animation">
                             Root Canal <span>Treatment</span>
                         </h2>
                     </div>
                     <p class="about-one__text">
-                        At Cochrane Valley Dental, our priority is preserving your natural smile whenever possible. When the inner pulp of a tooth becomes infected or inflamed, root canal treatment can help eliminate discomfort, remove infection and protect the tooth from further damage. Using modern techniques and a patient-focused approach, we provide comfortable treatment designed to restore your oral health and help you keep your natural tooth for years to come.
+                        At Cochrane Valley Dental, our priority is preserving your natural smile whenever possible. When the inner pulp of a tooth becomes infected or inflamed, Root Canal Treatment Cochrane patients' trust can help eliminate discomfort, remove infection and protect the tooth from further damage. Using modern techniques and a patient-focused approach, we provide comfortable treatment designed to restore your oral health and help you keep your natural tooth for years to come.
                     </p>
                     <div class="about-one__points-and-experience-box">
                         <ul class="about-one__points-box">
@@ -169,7 +169,7 @@
                     </div>
                     <h2 class="section-title__title title-animation">The Importance of <span>Root Canal Treatment</span></h2>
                 </div>
-                <div class="before-after-two__content-text">
+                <div class="before-after-two__content-text" style="display: block !important;">
                     <ul style="margin: 15px 0 25px 20px; list-style-type: disc; color: var(--mediplace-text);">
                         <li><strong>Treats Deep Tooth Infections:</strong> When bacteria reach the inner pulp of the tooth, root canal therapy helps remove the source of infection.</li>
                         <li><strong>Protects Surrounding Oral Structures:</strong> Treating an infected tooth can help prevent complications that may affect nearby teeth and tissues.</li>
@@ -209,7 +209,7 @@
                         </div>
                         <div>
                             <h4 style="font-size: 18px; margin-bottom: 5px;">Patient-Centered Experience</h4>
-                            <p>We take the time to explain the procedure, answer your questions and ensure you feel comfortable.</p>
+                            <p>Patients seeking Root Canal Treatment Cochrane can rely on our team to explain every step of the procedure, answer questions and ensure a comfortable experience.</p>
                         </div>
                     </li>
                     <li
@@ -235,7 +235,7 @@
 <!-- Importance Section End -->
 
 <!-- What to Do Start -->
-<section class="working-process-one" style="background: var(--mediplace-black); padding: 140px 0 200px; color: #fff;">
+<section class="working-process-one" style="display: block !important; background: var(--mediplace-black); padding: 140px 0 200px; color: #fff;">
     <div class="container">
         <div class="section-title text-center sec-title-animation animation-style1">
             <div class="section-title__tagline-box">
@@ -303,7 +303,7 @@
                             style="font-size: 38px; font-weight: 800; color: #fff; margin-bottom: 10px; line-height: 1.2; font-family: var(--mediplace-font-two);">
                             Ready to Save Your Tooth and <span style="opacity: 0.9;">Restore Your Comfort?</span></h2>
                         <p style="font-size: 18px; color: rgba(255,255,255,0.95); margin-bottom: 0;">
-                            Book your root canal consultation at Cochrane Valley Dental today and receive expert care designed to eliminate infection, preserve your natural tooth and support a healthier, more comfortable smile.
+                            Book your consultation for Root Canal Treatment Cochrane at Cochrane Valley Dental today and receive expert care designed to eliminate infection, preserve your natural tooth and support a healthier, more comfortable smile.
                         </p>
                     </div>
                 </div>
