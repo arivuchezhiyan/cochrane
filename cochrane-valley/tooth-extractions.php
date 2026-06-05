@@ -49,14 +49,14 @@
                     <div class="section-title text-left sec-title-animation animation-style1">
                         <div class="section-title__tagline-box">
                             <span class="icon-tooth"></span>
-                            <p class="section-title__tagline">Safe Tooth Removal</p>
+                            <p class="section-title__tagline">When a Tooth Can’t Be Saved, Compassionate Care Matters Most</p>
                         </div>
                         <h2 class="section-title__title title-animation">
-                            Tooth <span>Extractions</span>
+                            Tooth <span>Extractions</span>: Safe, Gentle Removal for Better Oral Health
                         </h2>
                     </div>
                     <p class="about-one__text">
-                        At Cochrane Valley Dental, our goal is always to preserve your natural teeth whenever possible. However, when a tooth is severely damaged, infected, overcrowded, or causing discomfort, a tooth extraction may be the best solution for protecting your overall oral health. Our experienced team provides gentle, patient-focused care to ensure your procedure is as comfortable and stress-free as possible while supporting a smooth recovery.
+                        At Cochrane Valley Dental, our goal is always to preserve your natural teeth whenever possible. However, when a tooth is severely damaged, infected, overcrowded, or causing discomfort, a tooth extraction may be the best solution for protecting your overall oral health. If you're looking for a trusted Dentist in Cochrane, our experienced team provides gentle, patient-focused care to ensure your procedure is as comfortable and stress-free as possible while supporting a smooth recovery.
                     </p>
                     <div class="about-one__points-and-experience-box">
                         <ul class="about-one__points-box">
@@ -169,7 +169,7 @@
                     </div>
                     <h2 class="section-title__title title-animation">The Importance of <span>Tooth Extractions</span></h2>
                 </div>
-                <div class="before-after-two__content-text">
+                <div class="before-after-two__content-text" style="display: block !important;">
                     <ul style="margin: 15px 0 25px 20px; list-style-type: disc; color: var(--mediplace-text);">
                         <li><strong>Addresses Severe Tooth Damage:</strong> When a tooth cannot be restored with fillings, crowns, or other treatments, extraction may be the most effective option.</li>
                         <li><strong>Helps Manage Infection:</strong> Removing an infected tooth can prevent the spread of bacteria and protect surrounding oral structures.</li>
@@ -198,7 +198,7 @@
                         </div>
                         <div>
                             <h4 style="font-size: 18px; margin-bottom: 5px;">Personalized Treatment Planning</h4>
-                            <p>We evaluate your unique situation and recommend the most appropriate treatment approach for your needs.</p>
+                            <p>As a leading Dentist in Cochrane, we evaluate your unique situation and recommend the most appropriate treatment approach for your needs.</p>
                         </div>
                     </li>
                     <li
@@ -235,7 +235,7 @@
 <!-- Importance Section End -->
 
 <!-- What to Do Start -->
-<section class="working-process-one" style="background: var(--mediplace-black); padding: 140px 0 200px; color: #fff;">
+<section class="working-process-one" style="display: block !important; background: var(--mediplace-black); padding: 140px 0 200px; color: #fff;">
     <div class="container">
         <div class="section-title text-center sec-title-animation animation-style1">
             <div class="section-title__tagline-box">
@@ -303,7 +303,7 @@
                             style="font-size: 38px; font-weight: 800; color: #fff; margin-bottom: 10px; line-height: 1.2; font-family: var(--mediplace-font-two);">
                             Ready to Find Relief and <span style="opacity: 0.9;">Protect Your Smile?</span></h2>
                         <p style="font-size: 18px; color: rgba(255,255,255,0.95); margin-bottom: 0;">
-                            Schedule your tooth extraction consultation at Cochrane Valley Dental today and receive compassionate, professional care designed to restore comfort, protect your oral health and support a healthy recovery.
+                            Schedule your tooth extraction consultation at Cochrane Valley Dental today and discover why patients trust our team as their preferred Dentist in Cochrane. Receive compassionate, professional care designed to restore comfort, protect your oral health and support a healthy recovery.
                         </p>
                     </div>
                 </div>
