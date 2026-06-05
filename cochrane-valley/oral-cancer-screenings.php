@@ -49,14 +49,14 @@
                     <div class="section-title text-left sec-title-animation animation-style1">
                         <div class="section-title__tagline-box">
                             <span class="icon-tooth"></span>
-                            <p class="section-title__tagline">Early Health Detection</p>
+                            <p class="section-title__tagline">Early Detection Can Make All the Difference</p>
                         </div>
                         <h2 class="section-title__title title-animation">
-                            Oral Cancer <span>Screenings</span>
+                            Oral Cancer <span>Screenings</span>: Protecting Your Health Beyond Your Smile
                         </h2>
                     </div>
                     <p class="about-one__text">
-                        At Cochrane Valley Dental, your oral health is about more than just your teeth and gums. Our oral cancer screenings are an important part of preventive dental care, helping identify potential concerns at their earliest stages. Through thorough examinations and careful evaluation of the tissues in your mouth, tongue, throat and surrounding areas, our team is committed to supporting your long-term health and well-being.
+                        At Cochrane Valley Dental, your oral health is about more than just your teeth and gums. As a trusted Family Dentist in Cochrane, we offer oral cancer screenings as an important part of preventive dental care, helping identify potential concerns at their earliest stages. Through thorough examinations and careful evaluation of the tissues in your mouth, tongue, throat and surrounding areas, our team is committed to supporting your long-term health and well-being.
                     </p>
                     <div class="about-one__points-and-experience-box">
                         <ul class="about-one__points-box">
@@ -169,7 +169,7 @@
                     </div>
                     <h2 class="section-title__title title-animation">The Importance of <span>Oral Cancer Screenings</span></h2>
                 </div>
-                <div class="before-after-two__content-text">
+                <div class="before-after-two__content-text" style="display: block !important;">
                     <ul style="margin: 15px 0 25px 20px; list-style-type: disc; color: var(--mediplace-text);">
                         <li><strong>Detect Potential Concerns Early:</strong> Early identification of suspicious lesions or abnormalities can improve treatment outcomes and overall prognosis.</li>
                         <li><strong>Monitor Changes in Oral Tissues:</strong> Regular evaluations help track any unusual changes in the mouth, lips, tongue, cheeks, or throat.</li>
@@ -198,7 +198,7 @@
                         </div>
                         <div>
                             <h4 style="font-size: 18px; margin-bottom: 5px;">Preventive Care-Focused Approach</h4>
-                            <p>We emphasize early detection and patient education as part of our commitment to long-term wellness.</p>
+                            <p>As a leading Family Dentist in Cochrane, we emphasize early detection and patient education as part of our commitment to long-term wellness.</p>
                         </div>
                     </li>
                     <li
@@ -235,7 +235,7 @@
 <!-- Importance Section End -->
 
 <!-- What to Do Start -->
-<section class="working-process-one" style="background: var(--mediplace-black); padding: 140px 0 200px; color: #fff;">
+<section class="working-process-one" style="display: block !important; background: var(--mediplace-black); padding: 140px 0 200px; color: #fff;">
     <div class="container">
         <div class="section-title text-center sec-title-animation animation-style1">
             <div class="section-title__tagline-box">
@@ -303,7 +303,7 @@
                             style="font-size: 38px; font-weight: 800; color: #fff; margin-bottom: 10px; line-height: 1.2; font-family: var(--mediplace-font-two);">
                             Ready to Take a <span style="opacity: 0.9;">Proactive Step for Your Health?</span></h2>
                         <p style="font-size: 18px; color: rgba(255,255,255,0.95); margin-bottom: 0;">
-                            Schedule your oral cancer screening at Cochrane Valley Dental today and gain the confidence that comes from comprehensive preventive care focused on protecting both your smile and your overall well-being.
+                            Schedule your oral cancer screening at Cochrane Valley Dental today and discover why families trust us as their preferred Family Dentist in Cochrane. Gain the confidence that comes from comprehensive preventive care focused on protecting both your smile and your overall well-being.
                         </p>
                     </div>
                 </div>
