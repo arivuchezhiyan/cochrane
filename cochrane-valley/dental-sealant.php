@@ -49,18 +49,14 @@
                     <div class="section-title text-left sec-title-animation animation-style1">
                         <div class="section-title__tagline-box">
                             <span class="icon-tooth"></span>
-                            <p class="section-title__tagline">Shield From Cavities</p>
+                            <p class="section-title__tagline">A Smarter Way to Shield Your Smile from Cavities</p>
                         </div>
                         <h2 class="section-title__title title-animation">
-                            Dental <span>Sealants</span>
+                            Dental <span>Sealants</span>: Preventive Protection for Stronger Teeth
                         </h2>
                     </div>
                     <p class="about-one__text">
-                        At Cochrane Valley Dental, we focus on prevention as the key to long-lasting oral health. Dental
-                        sealants are a simple yet highly effective solution to protect your teeth - especially the
-                        hard-to-reach grooves of molars - from decay. Our team applies a thin, protective coating that
-                        acts as a barrier against bacteria and food particles, helping both children and adults maintain
-                        healthier smiles with ease.
+                        At Cochrane Valley Dental, we focus on prevention as the key to long-lasting oral health. If you're looking for a trusted Dentist in Cochrane, dental sealants are a simple yet highly effective solution to protect your teeth - especially the hard-to-reach grooves of molars - from decay. Our team applies a thin, protective coating that acts as a barrier against bacteria and food particles, helping both children and adults maintain healthier smiles with ease.
                     </p>
                     <div class="about-one__points-and-experience-box">
                         <ul class="about-one__points-box">
@@ -94,10 +90,10 @@
                                 <div class="about-one__btn">
                                     <a href="appointment.php" class="thm-btn">
                                         <span class="fas fa-calendar-alt"></span>
-                                         Book Your Dental Sealant Consultation Today
+                                         Book Your Dental Sealant Appointment Today
                                     </a>
                                 </div>
-                     </div>
+                      </div>
                 </div>
             </div>
         </div>
@@ -145,7 +141,7 @@
                         <i class="fas fa-bolt"></i>
                     </div>
                     <h3>Fast & Non-Invasive Treatment</h3>
-                    <p>The application process is quick, painless and requires no drilling or discomfort.</p>
+                    <p>The application process is quick, painless, and requires no drilling or discomfort.</p>
                 </div>
             </div>
             <div class="col-xl-3 col-lg-6 col-md-6">
@@ -175,12 +171,12 @@
                     </div>
                     <h2 class="section-title__title title-animation">The Importance of <span>Dental Sealants</span></h2>
                 </div>
-                <div class="before-after-two__content-text">
+                <div class="before-after-two__content-text" style="display: block !important;">
                     <ul style="margin: 15px 0 25px 20px; list-style-type: disc; color: var(--mediplace-text);">
                         <li><strong>Early Protection for Young Smiles:</strong> Sealants are especially beneficial for
                             children and teens, protecting newly erupted permanent teeth.</li>
                         <li><strong>Supports Daily Oral Hygiene:</strong> Even with proper brushing, some areas are hard
-                            to clean - sealants provide added defense.</li>
+                            to clean—sealants provide added defense.</li>
                         <li><strong>Reduces Risk of Tooth Decay:</strong> By sealing off grooves, they significantly
                             lower the chances of cavities forming.</li>
                         <li><strong>Long-Term Oral Health Benefits:</strong> Sealants can last for years with proper
@@ -220,7 +216,7 @@
                         </div>
                         <div>
                             <h4 style="font-size: 18px; margin-bottom: 5px;">Tailored Recommendations</h4>
-                            <p>We assess each patient’s risk for cavities and recommend sealants when beneficial.</p>
+                            <p>As a trusted Dentist in Cochrane, we assess each patient’s risk for cavities and recommend sealants when they can provide the greatest benefit.</p>
                         </div>
                     </li>
                     <li
@@ -247,7 +243,7 @@
 <!-- Common Issues End -->
 
 <!-- What to Do Start -->
-<section class="working-process-one" style="background: var(--mediplace-black); padding: 140px 0 200px; color: #fff;">
+<section class="working-process-one" style="display: block !important; background: var(--mediplace-black); padding: 140px 0 200px; color: #fff;">
     <div class="container">
         <div class="section-title text-center sec-title-animation animation-style1">
             <div class="section-title__tagline-box">
@@ -321,8 +317,7 @@
                             Ready to Add an Extra Layer of <span style="opacity: 0.9;">Protection to Your Smile?</span>
                         </h2>
                         <p style="font-size: 18px; color: rgba(255,255,255,0.95); margin-bottom: 0;">
-                            Book your dental sealant appointment today at Cochrane Valley Dental and take a proactive
-                            step toward preventing cavities and preserving your healthy smile for years to come!
+                            Book your dental sealant appointment today at Cochrane Valley Dental and discover why families trust our team as their preferred Dentist in Cochrane. Take a proactive step toward preventing cavities and preserving your healthy smile for years to come.
                         </p>
                     </div>
                 </div>
