@@ -49,14 +49,14 @@
                     <div class="section-title text-left sec-title-animation animation-style1">
                         <div class="section-title__tagline-box">
                             <span class="icon-tooth"></span>
-                            <p class="section-title__tagline">Impacted Molar Care</p>
+                            <p class="section-title__tagline">Managing Impacted, Painful and Problematic Wisdom Teeth</p>
                         </div>
                         <h2 class="section-title__title title-animation">
                             Wisdom Teeth <span>Services</span>
                         </h2>
                     </div>
                     <p class="about-one__text">
-                        At Cochrane Valley Dental, we help patients navigate the challenges that wisdom teeth can sometimes create. As the last set of molars to develop, wisdom teeth may not always have enough room to emerge properly, leading to discomfort, crowding, or other oral health concerns. Our wisdom teeth services focus on early evaluation, monitoring and treatment when necessary, helping protect your smile and maintain long-term oral health.
+                        At Cochrane Valley Dental, we help patients navigate the challenges that wisdom teeth can sometimes create. As the last set of molars to develop, wisdom teeth may not always have enough room to emerge properly, leading to discomfort, crowding, or other oral health concerns. Whether you need monitoring or Wisdom Teeth Removal Cochrane patients can rely on, our services focus on early evaluation and personalized treatment to help protect your smile and maintain long-term oral health.
                     </p>
                     <div class="about-one__points-and-experience-box">
                         <ul class="about-one__points-box">
@@ -169,7 +169,7 @@
                     </div>
                     <h2 class="section-title__title title-animation">The Importance of <span>Wisdom Teeth Care</span></h2>
                 </div>
-                <div class="before-after-two__content-text">
+                <div class="before-after-two__content-text" style="display: block !important;">
                     <ul style="margin: 15px 0 25px 20px; list-style-type: disc; color: var(--mediplace-text);">
                         <li><strong>Monitor Tooth Development:</strong> Regular evaluations help determine whether wisdom teeth are erupting properly or require treatment.</li>
                         <li><strong>Reduce the Risk of Infection:</strong> Partially erupted wisdom teeth can create areas where bacteria accumulate, increasing the risk of infection.</li>
@@ -209,7 +209,7 @@
                         </div>
                         <div>
                             <h4 style="font-size: 18px; margin-bottom: 5px;">Modern Treatment Techniques</h4>
-                            <p>We utilize advanced approaches designed to promote efficient treatment and a smoother recovery.</p>
+                            <p>For patients requiring Wisdom Teeth Removal Cochrane, we utilize advanced approaches designed to promote efficient treatment and a smoother recovery.</p>
                         </div>
                     </li>
                     <li
@@ -235,7 +235,7 @@
 <!-- Importance Section End -->
 
 <!-- What to Do Start -->
-<section class="working-process-one" style="background: var(--mediplace-black); padding: 140px 0 200px; color: #fff;">
+<section class="working-process-one" style="display: block !important; background: var(--mediplace-black); padding: 140px 0 200px; color: #fff;">
     <div class="container">
         <div class="section-title text-center sec-title-animation animation-style1">
             <div class="section-title__tagline-box">
@@ -303,7 +303,7 @@
                             style="font-size: 38px; font-weight: 800; color: #fff; margin-bottom: 10px; line-height: 1.2; font-family: var(--mediplace-font-two);">
                             Ready to Take Care of <span style="opacity: 0.9;">Your Wisdom Teeth?</span></h2>
                         <p style="font-size: 18px; color: rgba(255,255,255,0.95); margin-bottom: 0;">
-                            Schedule your wisdom teeth consultation at Cochrane Valley Dental today and receive personalized care designed to protect your oral health, relieve discomfort and keep your smile healthy for years to come.
+                            Schedule your consultation for Wisdom Teeth Removal Cochrane at Cochrane Valley Dental today and receive personalized care designed to protect your oral health, relieve discomfort and keep your smile healthy for years to come.
                         </p>
                     </div>
                 </div>
