@@ -49,14 +49,14 @@
                     <div class="section-title text-left sec-title-animation animation-style1">
                         <div class="section-title__tagline-box">
                             <span class="icon-tooth"></span>
-                            <p class="section-title__tagline">Restore Missing Teeth</p>
+                            <p class="section-title__tagline">Replace Missing Teeth, Restore Everyday Confidence</p>
                         </div>
                         <h2 class="section-title__title title-animation">
-                            Dental <span>Implants</span>
+                            Dental <span>Implants</span>: A Permanent Solution for Missing Teeth
                         </h2>
                     </div>
                     <p class="about-one__text">
-                        At Cochrane Valley Dental, we understand the impact that missing teeth can have on your confidence, comfort, and oral health. Dental implants are a durable and natural-looking solution designed to replace missing teeth and restore the function of your smile. Whether you're missing a single tooth or multiple teeth, our team provides personalized implant treatments that help you eat, speak and smile with confidence again.
+                        At Cochrane Valley Dental, we understand the impact that missing teeth can have on your confidence, comfort and oral health. If you're considering Dental Implants Cochrane, our durable and natural-looking implant solutions are designed to replace missing teeth and restore the function of your smile. Whether you're missing a single tooth or multiple teeth, our team provides personalized implant treatments that help you eat, speak and smile with confidence again.
                     </p>
                     <div class="about-one__points-and-experience-box">
                         <ul class="about-one__points-box">
@@ -169,7 +169,7 @@
                     </div>
                     <h2 class="section-title__title title-animation">The Importance of <span>Dental Implants</span></h2>
                 </div>
-                <div class="before-after-two__content-text">
+                <div class="before-after-two__content-text" style="display: block !important;">
                     <ul style="margin: 15px 0 25px 20px; list-style-type: disc; color: var(--mediplace-text);">
                         <li><strong>Prevent Shifting Teeth:</strong> Replacing missing teeth helps maintain proper spacing and prevents neighboring teeth from drifting out of position.</li>
                         <li><strong>Support Facial Structure:</strong> Tooth loss can affect facial appearance over time. Dental implants help preserve natural facial contours and support.</li>
@@ -198,7 +198,7 @@
                         </div>
                         <div>
                             <h4 style="font-size: 18px; margin-bottom: 5px;">Precision-Focused Care</h4>
-                            <p>We use advanced diagnostic tools and modern techniques to ensure accurate implant placement and optimal outcomes.</p>
+                            <p>Patients seeking Dental Implants Cochrane benefit from advanced diagnostic tools and modern techniques that support accurate implant placement and optimal outcomes.</p>
                         </div>
                     </li>
                     <li
@@ -235,7 +235,7 @@
 <!-- Importance Section End -->
 
 <!-- What to Do Start -->
-<section class="working-process-one" style="background: var(--mediplace-black); padding: 140px 0 200px; color: #fff;">
+<section class="working-process-one" style="display: block !important; background: var(--mediplace-black); padding: 140px 0 200px; color: #fff;">
     <div class="container">
         <div class="section-title text-center sec-title-animation animation-style1">
             <div class="section-title__tagline-box">
@@ -259,7 +259,7 @@
                     <div
                         style="width: 80px; height: 80px; border: 2px dashed #fff; border-radius: 50%; margin: 0 auto 25px; display: flex; align-items: center; justify-content: center; font-size: 24px; font-weight: 700;">
                         02</div>
-                    <h3 style="color: #fff;">Develop a Personalized Plan</h3>
+                    <h3 style="color: #fff;">Develop a Personalized Treatment Plan</h3>
                     <p style="color: rgba(255,255,255,0.8);">We assess your oral health, bone structure and smile goals to create a customized implant strategy.</p>
                 </div>
             </div>
@@ -303,7 +303,7 @@
                             style="font-size: 38px; font-weight: 800; color: #fff; margin-bottom: 10px; line-height: 1.2; font-family: var(--mediplace-font-two);">
                             Ready to <span style="opacity: 0.9;">Reclaim Your Smile?</span></h2>
                         <p style="font-size: 18px; color: rgba(255,255,255,0.95); margin-bottom: 0;">
-                            Book your dental implant consultation today at Cochrane Valley Dental and take the first step toward restoring the strength, function and natural beauty of your smile with a lasting tooth replacement solution.
+                            Book your consultation today and discover why so many patients trust Cochrane Valley Dental for Dental Implants Cochrane. Take the first step toward restoring the strength, function and natural beauty of your smile with a lasting tooth replacement solution.
                         </p>
                     </div>
                 </div>

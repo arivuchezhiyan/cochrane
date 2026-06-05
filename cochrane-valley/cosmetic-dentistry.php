@@ -49,14 +49,14 @@
                     <div class="section-title text-left sec-title-animation animation-style1">
                         <div class="section-title__tagline-box">
                             <span class="icon-tooth"></span>
-                            <p class="section-title__tagline">Beautiful Smile Design</p>
+                            <p class="section-title__tagline">Transform Your Smile, Elevate Your Confidence</p>
                         </div>
                         <h2 class="section-title__title title-animation">
-                            Cosmetic <span>Dentistry</span>
+                            Cosmetic <span>Dentistry</span>: Personalized Solutions for a More Beautiful Smile
                         </h2>
                     </div>
                     <p class="about-one__text">
-                        At Cochrane Valley Dental, we believe that a confident smile can make a lasting impression. Our cosmetic dentistry services are designed to enhance the appearance of your teeth while maintaining their health and function. Whether you're looking to brighten discolored teeth, repair minor imperfections, or achieve a complete smile makeover, our experienced team offers customized treatments to help you achieve the smile you've always wanted.
+                        At Cochrane Valley Dental, we believe that a confident smile can make a lasting impression. If you're searching for a trusted Cosmetic Dentist Cochrane, our cosmetic dentistry services are designed to enhance the appearance of your teeth while maintaining their health and function. Whether you're looking to brighten discolored teeth, repair minor imperfections, or achieve a complete smile makeover, our experienced team offers customized treatments to help you achieve the smile you've always wanted.
                     </p>
                     <div class="about-one__points-and-experience-box">
                         <ul class="about-one__points-box">
@@ -169,7 +169,7 @@
                     </div>
                     <h2 class="section-title__title title-animation">The Importance of <span>Cosmetic Dentistry</span></h2>
                 </div>
-                <div class="before-after-two__content-text">
+                <div class="before-after-two__content-text" style="display: block !important;">
                     <ul style="margin: 15px 0 25px 20px; list-style-type: disc; color: var(--mediplace-text);">
                         <li><strong>Corrects Common Smile Imperfections:</strong> Cosmetic dentistry can address issues such as stains, chips, gaps, uneven teeth and minor alignment concerns.</li>
                         <li><strong>Supports Long-Term Oral Health:</strong> Many cosmetic procedures not only improve aesthetics but also help protect and strengthen teeth.</li>
@@ -198,7 +198,7 @@
                         </div>
                         <div>
                             <h4 style="font-size: 18px; margin-bottom: 5px;">Advanced Cosmetic Solutions</h4>
-                            <p>Our clinic offers a variety of modern cosmetic treatments designed to deliver predictable and natural-looking results.</p>
+                            <p>As a leading Cosmetic Dentist Cochrane, we offer a variety of modern cosmetic treatments designed to deliver predictable and natural-looking results.</p>
                         </div>
                     </li>
                     <li
@@ -235,7 +235,7 @@
 <!-- Importance Section End -->
 
 <!-- What to Do Start -->
-<section class="working-process-one" style="background: var(--mediplace-black); padding: 140px 0 200px; color: #fff;">
+<section class="working-process-one" style="display: block !important; background: var(--mediplace-black); padding: 140px 0 200px; color: #fff;">
     <div class="container">
         <div class="section-title text-center sec-title-animation animation-style1">
             <div class="section-title__tagline-box">
@@ -303,7 +303,7 @@
                             style="font-size: 38px; font-weight: 800; color: #fff; margin-bottom: 10px; line-height: 1.2; font-family: var(--mediplace-font-two);">
                             Ready to <span style="opacity: 0.9;">Love Your Smile Again?</span></h2>
                         <p style="font-size: 18px; color: rgba(255,255,255,0.95); margin-bottom: 0;">
-                            Book your cosmetic dentistry consultation today at Cochrane Valley Dental and discover personalized solutions designed to enhance your smile, boost your confidence and help you make every first impression count.
+                            Book your cosmetic dentistry consultation today at Cochrane Valley Dental and discover why patients trust our team as their preferred Cosmetic Dentist Cochrane. Let us help you achieve a smile that enhances your confidence and leaves a lasting impression.
                         </p>
                     </div>
                 </div>
